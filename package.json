@@ -1,0 +1,22 @@
+{
+  "name": "ags-widget-tmpl",
+  "version": "1.0.0",
+  "description": "Project template for ArcGIS JSAPI 4.x widgets development.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aiooioo/ags-widget-tmpl.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aiooioo/ags-widget-tmpl/issues"
+  },
+  "homepage": "https://github.com/Aiooioo/ags-widget-tmpl#readme",
+  "devDependencies": {
+    "@types/arcgis-js-api": "^4.8.1"
+  }
+}
